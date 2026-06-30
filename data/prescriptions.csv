@@ -1,0 +1,5 @@
+patientPhone,medicationName,strength,daySupply,status,priority,refillDate,pickupDate,refillsRemaining
+(555) 214-7831,Lisinopril,10mg,30,Ready,Regular,,,3
+(555) 368-9042,Metformin,500mg,90,Picked Up,High,09/26/2026,06/30/2026,4
+(555) 491-3267,Atorvastatin,20mg,30,Picked Up,Regular,06/30/2026,06/02/2026,2
+(555) 627-0184,Sertraline,50mg,30,On File,,,,0
